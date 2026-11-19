@@ -3,7 +3,7 @@
 
 <h3>
   <span style="color:#2563EB;"><strong>Full Stack Software Engineer</strong></span>
-  <span style="color:#64748B;"> | React.js | Next.js | AI/ML</span>
+  <span style="color:#64748B;"> | React.js | Next.js | AI Integration</span>
 </h3>
 
 
