@@ -66,23 +66,4 @@ A personal portfolio website showcasing my background, technical skills, project
 
 ---
 
-## Education & Achievements
-
-**Bachelor of Science in Software Engineering**  
-Pak-Austria Fachhochschule (PAF-IAST) | 2022–2026
-
-- Dean's List — 2 Times
-- Merit Scholarship — 2 Times
-- Prime Minister's Laptop Award
-
----
-
-## Connect With Me
-
-- **Portfolio:** [asadullah-portfolio.vercel.app](https://asadullah-portfolio.vercel.app)
-- **LinkedIn:** [Muhammad Asadullah Khan](https://www.linkedin.com/in/muhammad-asadullahkhan/)
-- **GitHub:** [MuhammadAsadullahKhan](https://github.com/MuhammadAsadullahKhan)
-- **Email:** [asadullah.dev01@gmail.com](mailto:asadullah.dev01@gmail.com)
-
----
 
