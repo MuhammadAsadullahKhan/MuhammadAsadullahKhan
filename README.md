@@ -2,19 +2,7 @@
 
 **Full Stack Software Engineer | React.js | Next.js | AI/ML**
 
-I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. My interests include full-stack development, backend engineering, database management, and AI/ML integration.
-
-I enjoy solving real-world problems through technology and continuously improving my development skills.
-
----
-
-## About Me
-
-- Bachelor's degree in Software Engineering from Pak-Austria Fachhochschule (PAF-IAST).
-- Interested in full-stack development and AI/ML applications.
-- Experienced with frontend development, backend technologies, and database systems.
-- Enjoy building practical projects and exploring new technologies.
-- Based in Pakistan.
+I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. My interests include full-stack development, backend engineering and AI/ML integration.
 
 ---
 
@@ -90,8 +78,7 @@ Pak-Austria Fachhochschule (PAF-IAST) | 2022–2026
 - **Portfolio:** [asadullah-portfolio.vercel.app](https://asadullah-portfolio.vercel.app)
 - **LinkedIn:** [Muhammad Asadullah Khan](https://www.linkedin.com/in/muhammad-asadullahkhan/)
 - **GitHub:** [MuhammadAsadullahKhan](https://github.com/MuhammadAsadullahKhan)
-- **Email:** [asadullah.se1@gmail.com](mailto:asadullah.se1@gmail.com)
+- **Email:** [asadullah.dev01@gmail.com](mailto:asadullah.dev01@gmail.com)
 
 ---
 
-*Always learning, building, and improving through technology.*
