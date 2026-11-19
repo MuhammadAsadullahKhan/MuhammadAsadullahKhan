@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi, I'm M. Asadullah Khan 👋
 
-<!--
-**MuhammadAsadullahKhan/MuhammadAsadullahKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer | React.js | Next.js | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. I enjoy working across the full development stack, from designing intuitive user interfaces to developing backend services and integrating intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am continuously learning and exploring technologies to strengthen my software engineering and problem-solving skills.
+
+---
+
+### 🚀 About Me
+
+- 🎓 Bachelor's in Software Engineering — Pak-Austria Fachhochschule (PAF-IAST)
+- 💻 Interested in Full Stack Development and AI/ML Integration
+- 🌱 Currently strengthening my skills in modern web technologies and software architecture
+- 🤝 Interested in collaborating on meaningful software projects
+- 📍 Based in Pakistan
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages**
+
+`Python` `JavaScript` `TypeScript` `PHP` `HTML5` `CSS3`
+
+**Frontend Development**
+
+`React.js` `Next.js` `Tailwind CSS` `Redux` `React Native` `Framer Motion`
+
+**Backend Development**
+
+`Node.js` `FastAPI` `Next.js API Routes` `Clerk`
+
+**Databases**
+
+`PostgreSQL` `MongoDB` `MySQL`
+
+**AI / Machine Learning**
+
+`Scikit-learn` `Machine Learning` `Deep Learning` `NLP` `Classification` `Regression`
+
+**Tools & Platforms**
+
+`Git` `GitHub` `Postman` `Docker` `Vercel`
+
+---
+
+### 📌 Featured Projects
+
+Explore my repositories to see my work in:
+
+- Full Stack Web Applications
+- AI and Machine Learning Projects
+- Data-Driven Applications
+- Software Engineering Projects
+
+*More detailed project documentation and demonstrations are being added.*
+
+---
+
+### 🏆 Achievements
+
+- Dean's List — 2 Times
+- Merit Scholarship — 2 Times
+- Prime Minister's Laptop Award
+
+---
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/muhammad-asadullahkhan](https://www.linkedin.com/in/muhammad-asadullahkhan/)
+- **Portfolio:** [asadullah-portfolio.vercel.app](https://asadullah-portfolio.vercel.app)
+- **Email:** [asadullah.se1@gmail.com](mailto:asadullah.se1@gmail.com)
+- **GitHub:** [github.com/MuhammadAsadullahKhan](https://github.com/MuhammadAsadullahKhan)
+
+---
+
+
