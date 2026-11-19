@@ -1,73 +1,83 @@
+# M. Asadullah Khan
 
-<div align="center">
+**Full Stack Software Engineer | React.js | Next.js | AI/ML**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=M.%20Asadullah%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
+I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. My interests include full-stack development, backend engineering, database management, and AI/ML integration.
 
-</div>
-
-
-# Hi, I'm M. Asadullah Khan 👋
-
-### Full Stack Software Engineer | React.js | Next.js | AI/ML Enthusiast
-
-I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. I enjoy working across the full development stack, from designing intuitive user interfaces to developing backend services and integrating intelligent solutions.
-
-I am continuously learning and exploring technologies to strengthen my software engineering and problem-solving skills.
+I enjoy solving real-world problems through technology and continuously improving my development skills.
 
 ---
 
-### 🚀 About Me
+## About Me
 
-- 🎓 Bachelor's in Software Engineering — Pak-Austria Fachhochschule (PAF-IAST)
-- 💻 Interested in Full Stack Development and AI/ML Integration
-- 🌱 Currently strengthening my skills in modern web technologies and software architecture
-- 🤝 Interested in collaborating on meaningful software projects
-- 📍 Based in Pakistan
+- Bachelor's degree in Software Engineering from Pak-Austria Fachhochschule (PAF-IAST).
+- Interested in full-stack development and AI/ML applications.
+- Experienced with frontend development, backend technologies, and database systems.
+- Enjoy building practical projects and exploring new technologies.
+- Based in Pakistan.
 
 ---
 
-### 🛠️ Technical Skills
+## Technical Skills
 
-**Languages**
+**Programming Languages**
 
-`Python` `JavaScript` `TypeScript` `PHP` `HTML5` `CSS3`
+JavaScript · TypeScript · Python · PHP · HTML5 · CSS3
 
 **Frontend Development**
 
-`React.js` `Next.js` `Tailwind CSS` `Redux` `React Native` `Framer Motion`
+React.js · Next.js · Tailwind CSS · Redux · React Native · Framer Motion
 
 **Backend Development**
 
-`Node.js` `FastAPI` `Next.js API Routes` `Clerk`
+Node.js · FastAPI · Next.js API Routes · Clerk
 
 **Databases**
 
-`PostgreSQL` `MongoDB` `MySQL`
+PostgreSQL · MongoDB · MySQL
 
-**AI / Machine Learning**
+**AI & Machine Learning**
 
-`Scikit-learn` `Machine Learning` `Deep Learning` `NLP` `Classification` `Regression`
+Scikit-learn · Machine Learning · Deep Learning · Natural Language Processing · Classification · Regression
 
 **Tools & Platforms**
 
-`Git` `GitHub` `Postman` `Docker` `Vercel`
+Git · GitHub · Postman · Docker · Vercel
 
 ---
 
-### 📌 Featured Projects
+## Featured Projects
 
-Explore my repositories to see my work in:
+### Cryptojacking Detection Tool
 
-- Full Stack Web Applications
-- AI and Machine Learning Projects
-- Data-Driven Applications
-- Software Engineering Projects
+A machine learning-based application designed to detect potential cryptojacking activity by analysing system resource usage and suspicious behaviour.
 
-*More detailed project documentation and demonstrations are being added.*
+**Technologies:** Python · Machine Learning · Scikit-learn · React.js
+
+[View Repository](https://github.com/MuhammadAsadullahKhan/Cryptojacking_Detection_Tool)
+
+### Future Flux
+
+A full-stack blogging platform focused on content publishing and modern web application development.
+
+**Technologies:** Next.js · React.js
+
+[View Repository](https://github.com/MuhammadAsadullahKhan/futureflux)
+
+### Personal Portfolio
+
+A personal portfolio website showcasing my background, technical skills, projects, and development experience.
+
+**Technologies:** Next.js · React.js · TypeScript
+
+[Visit Portfolio](https://asadullah-portfolio.vercel.app)
 
 ---
 
-### 🏆 Achievements
+## Education & Achievements
+
+**Bachelor of Science in Software Engineering**  
+Pak-Austria Fachhochschule (PAF-IAST) | 2022–2026
 
 - Dean's List — 2 Times
 - Merit Scholarship — 2 Times
@@ -75,13 +85,13 @@ Explore my repositories to see my work in:
 
 ---
 
-### 🤝 Connect With Me
+## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/muhammad-asadullahkhan](https://www.linkedin.com/in/muhammad-asadullahkhan/)
 - **Portfolio:** [asadullah-portfolio.vercel.app](https://asadullah-portfolio.vercel.app)
+- **LinkedIn:** [Muhammad Asadullah Khan](https://www.linkedin.com/in/muhammad-asadullahkhan/)
+- **GitHub:** [MuhammadAsadullahKhan](https://github.com/MuhammadAsadullahKhan)
 - **Email:** [asadullah.se1@gmail.com](mailto:asadullah.se1@gmail.com)
-- **GitHub:** [github.com/MuhammadAsadullahKhan](https://github.com/MuhammadAsadullahKhan)
 
 ---
 
-
+*Always learning, building, and improving through technology.*
