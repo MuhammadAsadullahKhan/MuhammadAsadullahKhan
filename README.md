@@ -1,6 +1,11 @@
-# M. Asadullah Khan
+<h1 align="left"><strong>Muhammad Asadullah Khan</strong></h1>
 
-Full Stack Software Engineer | React.js | Next.js | AI/ML
+
+<h3>
+  <span style="color:#2563EB;"><strong>Full Stack Software Engineer</strong></span>
+  <span style="color:#64748B;"> | React.js | Next.js | AI/ML</span>
+</h3>
+
 
 I am a Software Engineering graduate passionate about building modern, responsive, and scalable web applications. My interests include full-stack development, backend engineering, database management, and AI/ML integration.
 
