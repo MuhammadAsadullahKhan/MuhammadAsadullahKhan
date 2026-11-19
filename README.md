@@ -1,3 +1,11 @@
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=M.%20Asadullah%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=16" width="100%" />
+
+</div>
+
+
 # Hi, I'm M. Asadullah Khan 👋
 
 ### Full Stack Software Engineer | React.js | Next.js | AI/ML Enthusiast
